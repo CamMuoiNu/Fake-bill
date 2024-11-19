@@ -1,0 +1,2 @@
+[05-Sep-2024 02:50:29 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 02:50:29 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501

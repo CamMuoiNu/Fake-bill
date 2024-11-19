@@ -1,0 +1,53 @@
+[23-Aug-2024 10:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/vvouyhansite/uyhandev.com/config/database.php:36
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/function/call-back/api/notice-payment.php(5): require_once()
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/config/database.php on line 36
+[23-Aug-2024 10:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/vvouyhansite/uyhandev.com/config/database.php:36
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/function/call-back/api/notice-payment.php(5): require_once()
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/config/database.php on line 36
+[05-Sep-2024 03:51:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:51:16 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:52:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:52:17 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:53:16 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:53:16 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:54:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:54:17 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:55:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 03:55:17 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:14:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:14:51 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:15:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:15:53 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:16:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[05-Sep-2024 04:16:53 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[09-Sep-2024 09:29:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[09-Sep-2024 09:29:14 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/vvouyhansite/uyhandev.com/config/common.php on line 501
+[11-Sep-2024 13:36:48 UTC] PHP Warning:  require_once(/home/vvouyhansite/uyhandev.com/config): Failed to open stream: No such file or directory in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 13:36:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vvouyhansite/uyhandev.com/config/' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vvouyhansite/uyhandev.com/config/common.php:2
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/config/database.php(45): require_once()
+#1 /home/vvouyhansite/uyhandev.com/function/call-back/api/notice-payment.php(5): require_once('/home/vvouyhans...')
+#2 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 13:36:56 UTC] PHP Warning:  require_once(/home/vvouyhansite/uyhandev.com/config): Failed to open stream: No such file or directory in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 13:36:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vvouyhansite/uyhandev.com/config/' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vvouyhansite/uyhandev.com/config/common.php:2
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/config/database.php(45): require_once()
+#1 /home/vvouyhansite/uyhandev.com/function/call-back/api/notice-payment.php(5): require_once('/home/vvouyhans...')
+#2 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 13:37:09 UTC] PHP Warning:  require_once(/home/vvouyhansite/uyhandev.com/config): Failed to open stream: No such file or directory in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 13:37:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/vvouyhansite/uyhandev.com/config/' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vvouyhansite/uyhandev.com/config/common.php:2
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/config/database.php(45): require_once()
+#1 /home/vvouyhansite/uyhandev.com/function/call-back/api/notice-payment.php(5): require_once('/home/vvouyhans...')
+#2 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/config/common.php on line 2
+[11-Sep-2024 14:14:02 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot/sendMessage?chat_id=&text=%0D%0AH%E1%BB%86+TH%E1%BB%90NG+KI%E1%BB%82M+TRA+B%E1%BA%A2N+QUY%E1%BB%80N+%21%21%0D%0A-+Th%E1%BB%9Di+gian%3A+2024-09-11+21%3A13%3A58%0D%0A-+Suspicious+IP+detected%3A+103.252.137.111%0D%0A-+Devices%3A+Windows%0D%0A-+Location%3A+Thanh+Xu%C3%A2n%2C+Vietnam%0D%0A-+Method%3A+GET%0D%0A-+Payload%3A+No+Data%0D%0A-+URL%3A+%5BURL%5D%28uyhandev.com%2Fcall-back%2Fapi%2Fn%29%0D%0A-+Referrer%3A+%5Bhttps%3A%2F%2Fuyhandev.com%2Foauth%2Fdang-nhap%3Fredirect%3Dhttps%253A%252F%252Fuyhandev.com%252F%5D%28https%3A%2F%2Fuyhandev.com%2Foauth%2Fdang-nhap%3Fredirect%3Dhttps%253A%252F%252Fuyhandev.com%252F%29%0D%0A%2B+Login+Panel%3A+%0D%0A-+%5BManage+File%5D%28uyhandev.com%2FThay+link+Manager+file%29%0D%0A-+Username%3A+tphatdev%0D%0A-+Password%3A+tphatdev%0D%0A-+Map%3A+%5BMAP%5D%28https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3D20.9872%2C105.82%29%0D%0A&parse_mode=Markdown): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in Command line code on line 1
+[11-Sep-2024 14:14:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot/sendMessage?chat_id=&text=%0D%0AH%E1%BB%86+TH%E1%BB%90NG+KI%E1%BB%82M+TRA+B%E1%BA%A2N+QUY%E1%BB%80N+%21%21%0D%0A-+Th%E1%BB%9Di+gian%3A+2024-09-11+21%3A13%3A59%0D%0A-+Suspicious+IP+detected%3A+103.252.137.111%0D%0A-+Devices%3A+Windows%0D%0A-+Location%3A+Thanh+Xu%C3%A2n%2C+Vietnam%0D%0A-+Method%3A+GET%0D%0A-+Payload%3A+No+Data%0D%0A-+URL%3A+%5BURL%5D%28uyhandev.com%2Fcall-back%2Fapi%2Fn%29%0D%0A-+Referrer%3A+%5Bhttps%3A%2F%2Fuyhandev.com%2Foauth%2Fdang-nhap%3Fredirect%3Dhttps%253A%252F%252Fuyhandev.com%252F%5D%28https%3A%2F%2Fuyhandev.com%2Foauth%2Fdang-nhap%3Fredirect%3Dhttps%253A%252F%252Fuyhandev.com%252F%29%0D%0A%2B+Login+Panel%3A+%0D%0A-+%5BManage+File%5D%28uyhandev.com%2FThay+link+Manager+file%29%0D%0A-+Username%3A+tphatdev%0D%0A-+Password%3A+tphatdev%0D%0A-+Map%3A+%5BMAP%5D%28https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2F%3Fapi%3D1%26query%3D20.9872%2C105.82%29%0D%0A&parse_mode=Markdown): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in Command line code on line 1

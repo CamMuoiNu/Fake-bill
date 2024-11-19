@@ -1,0 +1,22 @@
+RewriteEngine On
+
+RewriteRule ^Auth/Profile/ChangePassword public/client/Profile-ChangePassword.php [L]
+RewriteRule ^Auth/Profile$ public/client/Profile.php [L]
+RewriteRule ^Auth/Register$ public/client/Register.php [L]
+RewriteRule ^Auth/Login$ public/client/Login.php [L]
+RewriteRule ^Auth/Logout$ public/client/Logout.php [L]
+RewriteRule ^Auth/ForgotPassword$ public/client/ForgotPassword.php [L]
+RewriteRule ^Auth/ChangePassword$ public/client/ChangePassword.php [L]
+RewriteRule ^Bank$ public/client/Bank.php [L]
+RewriteRule ^bien-dong-so-du/$ public/client/BienDongSoDu.php [L]
+RewriteRule ^nap-tien-qua-ngan-hang/$ public/client/Recharge-Bank.php [L]
+
+
+RewriteRule ^admin/$ public/admin/Home.php [L]
+RewriteRule ^Admin/$ public/admin/Home.php [L]
+RewriteRule ^Admin$ public/admin/Home.php [L]
+RewriteRule ^Admin/Home$ public/admin/Home.php [L]
+RewriteRule ^Admin/Users$ public/admin/Users.php [L]
+RewriteRule ^Admin/User/Edit/([A-Za-z0-9-]+) public/admin/EditUser.php?id=$1 [L]
+RewriteRule ^Admin/Setting$ public/admin/Setting.php [L]
+RewriteRule ^Admin/Bank$ public/admin/Bank.php [L]

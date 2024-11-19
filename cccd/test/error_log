@@ -1,0 +1,546 @@
+[20-Aug-2024 01:50:15 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:15 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:15 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:15 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:15 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:15 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:50:16 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:50:16 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:50:16 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:16 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:16 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:16 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:16 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:16 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:50:16 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:16 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=865118200704%7C%7CUy+Han%7C12122000%7CNam%7Cok%7Cok&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:16 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:17 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:50:29 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:29 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:50:29 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:50:29 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:29 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=532810463085%7C%7CUy+Han%7C12122000%7CNam%7Cok%7Cok&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:29 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:50:31 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:50:31 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:50:32 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:51:44 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:51:44 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:51:44 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:51:44 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:51:44 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=400511153797%7C%7CHan%7C12122000%7CNam%7C%3A%29%29%29%29%29%29%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:51:44 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:51:46 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:51:46 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:51:47 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:17 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:17 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:57:17 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:57:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:18 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=555291610435%7C%7CHan%7C12122000%7CNam%7C%3A%29%29%29%29%29%29%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:18 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:20 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:57:20 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:57:20 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:57:32 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:32 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:32 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:32 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:32 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:57:32 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:57:33 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:33 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:33 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:33 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:33 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:57:33 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:57:33 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:57:33 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:57:33 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:33 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=156954578793%7C%7CV%C3%B5+Uy+Han%7C12122000%7CNam%7C%3A%29%29%29%29%29%29%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:33 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:57:34 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:18 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:18 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:18 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:58:18 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:18 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=811170960228%7C%7CV%C3%B5+Uy+Han%7C12122000%7CNam%7C%3A%29%29%29%29%29%29%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:18 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:20 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:58:20 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:58:21 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 01:58:53 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:53 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:53 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:53 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:53 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 01:58:53 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 01:58:54 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:58:54 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 01:58:54 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:54 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:54 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:54 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:54 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 01:58:54 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 01:58:54 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:54 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=627668362356%7C%7CV%C3%B5+Uy+Han%7C12122000%7CNam%7C%3A%29%29%29%29%29%29%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:54 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 01:58:56 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:37:45 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:37:45 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:37:45 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:37:45 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:37:45 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:37:45 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:37:46 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:37:46 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:37:46 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:37:46 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:37:46 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:37:46 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:37:46 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:37:46 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:37:47 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:37:47 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=001099022991%7C%7CNGUY%E1%BB%84N+V%C4%82N+AN%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:37:47 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:37:48 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:38:21 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:21 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:21 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:21 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:21 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:21 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:38:22 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:22 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:22 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:22 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:22 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:22 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:38:22 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:22 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=001099022991%7C%7CNGUY%E1%BB%84N+V%C4%82N+AN%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:22 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:24 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:38:24 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:38:24 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:38:24 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:24 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:24 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:24 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:24 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:38:24 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:38:24 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:24 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=001099022991%7C%7CNGUY%E1%BB%84N+V%C4%82N+AN%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:24 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:38:25 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:25 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:25 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:25 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:25 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:38:25 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:38:26 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:38:27 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:38:27 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:41:02 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:41:02 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:41:02 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:41:02 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:41:02 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:41:02 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:41:02 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:41:02 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=891863571473%7C%7CV%C3%B5+Uy+Han%7C12122000%7CNam%7CVinh%7C12122000&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:41:02 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:41:03 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:41:03 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:41:03 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:41:03 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:41:03 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:41:03 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:41:04 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:41:05 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:41:05 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:07 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:07 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:07 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:42:07 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:07 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=001099092719%7C%7CNGUY%E1%BB%84N+V%C4%82N+D%C5%A8NG%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:07 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:09 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:09 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:09 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:42:21 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:21 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:21 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:21 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:21 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:21 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:42:22 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:22 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:22 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:22 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:22 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:22 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:22 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:22 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:42:22 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:22 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=728876141884%7C%7CNGUYEN+VAN+DUNG%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:22 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:24 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:42:40 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:40 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:40 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:40 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:40 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:40 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:42:41 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:41 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:41 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:41 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:41 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:41 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:41 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:41 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:42:41 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:41 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=385087009462%7C%7CNGUYENVAN%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:41 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:43 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[20-Aug-2024 15:42:51 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:51 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[20-Aug-2024 15:42:51 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[20-Aug-2024 15:42:51 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:51 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=766245295856%7C%7CNGUYEN+VAN%7C02021999%7CNam%7CH%C3%A0+N%E1%BB%99i%7C21062023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:51 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[20-Aug-2024 15:42:53 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:53 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[20-Aug-2024 15:42:53 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:20:17 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:20:17 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:20:17 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[23-Aug-2024 10:20:17 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:20:17 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=307573239199%7C%7CV%C3%B5+Uy+Han%7C27062000%7CNam%7CVi%E1%BB%87t+Nam%7C27042021&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:20:17 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:20:19 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:20:19 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:20:19 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:36 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:36 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:36 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[23-Aug-2024 10:21:36 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:36 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=283879097091%7C%7CV%C3%B5+Uy+Han%7C27062000%7CNam%7CVi%E1%BB%87t+Nam%7C27042021&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:36 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:38 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:21:38 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:21:39 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[23-Aug-2024 10:21:42 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:42 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[23-Aug-2024 10:21:42 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[23-Aug-2024 10:21:42 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:42 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=730239895557%7C%7CV%C3%B5+Uy+Han%7C27062000%7CNam%7CVi%E1%BB%87t+Nam%7C27042021&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:42 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[23-Aug-2024 10:21:43 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:21:43 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[23-Aug-2024 10:21:44 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 05:31:43 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 05:31:43 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 05:31:43 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[01-Sep-2024 05:31:43 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 05:31:43 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=231038064170%7C%7CXxx%7C15042006%7CNam%7CH%C3%A0+N%E1%BB%99i%7C042024&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 05:31:43 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 05:31:44 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[01-Sep-2024 05:31:44 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[01-Sep-2024 05:31:45 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[01-Sep-2024 10:30:39 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 10:30:39 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 10:30:39 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 10:30:39 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 10:30:39 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 10:30:39 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[01-Sep-2024 10:30:40 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 10:30:40 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=528941794211%7C%7CHuyKaiser%7C03042000%7CNam%7CPh%C6%B0%E1%BB%9Dng+Y%E1%BA%BFt+Ki%C3%AAu%2C+H%C3%A0+%C4%90%C3%B4ng%2C+H%C3%A0+N%E1%BB%99i%7C20122023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 10:30:40 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 10:30:40 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 10:30:40 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 10:30:40 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 10:30:40 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 10:30:40 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 10:30:40 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[01-Sep-2024 10:30:42 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[01-Sep-2024 10:30:42 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[01-Sep-2024 10:30:42 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[01-Sep-2024 11:07:19 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 11:07:19 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 11:07:19 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 11:07:19 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 11:07:19 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 14
+[01-Sep-2024 11:07:19 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 56
+[01-Sep-2024 11:07:19 UTC] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 11:07:19 UTC] PHP Warning:  file_get_contents(https://quickchart.io/qr?text=476117106020%7C%7CHuyKaiser%7C03042000%7CNam%7CPh%C6%B0%E1%BB%9Dng+Y%E1%BA%BFt+Ki%C3%AAu%2C+H%C3%A0+%C4%90%C3%B4ng%2C+H%C3%A0+N%E1%BB%99i%7C20122023&amp;light=0000&amp;ecLevel=Q&amp;format=png&amp;size=170): Failed to open stream: no suitable wrapper could be found in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 11:07:19 UTC] PHP Warning:  imagecreatefromstring(): Data is not in a recognized format in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 70
+[01-Sep-2024 11:07:20 UTC] PHP Deprecated:  Required parameter $textColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 11:07:20 UTC] PHP Deprecated:  Required parameter $shadowColor follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 11:07:20 UTC] PHP Deprecated:  Required parameter $shadowOffsetX follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 11:07:20 UTC] PHP Deprecated:  Required parameter $shadowOffsetY follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 11:07:20 UTC] PHP Deprecated:  Required parameter $outerGlowSize follows optional parameter $spacing in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 17
+[01-Sep-2024 11:07:20 UTC] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 59
+[01-Sep-2024 11:07:21 UTC] PHP Fatal error:  Uncaught TypeError: imagesx(): Argument #1 ($image) must be of type GdImage, bool given in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php:93
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php(93): imagesx(false)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/edit-image.php on line 93
+[01-Sep-2024 11:07:22 UTC] PHP Warning:  Undefined variable $adjustedImage in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
+[01-Sep-2024 11:07:22 UTC] PHP Fatal error:  Uncaught TypeError: imagedestroy(): Argument #1 ($image) must be of type GdImage, null given in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php:101
+Stack trace:
+#0 /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php(101): imagedestroy(NULL)
+#1 {main}
+  thrown in /home/vvouyhansite/uyhandev.com/cccd/test/mat-sau.php on line 101
